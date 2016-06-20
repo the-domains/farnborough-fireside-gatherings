@@ -10,8 +10,8 @@ description: >-
   tournament provided enough people sign up. We are looking at the option of
   prizes for the winners, and everyone will get the Fireside card back in game
   reward!
-datePublished: '2016-06-20T15:39:20.679Z'
-dateModified: '2016-06-20T15:38:07.389Z'
+datePublished: '2016-06-20T15:45:02.729Z'
+dateModified: '2016-06-20T15:44:59.581Z'
 title: ''
 author: []
 sourcePath: >-
@@ -23,8 +23,6 @@ url: a-new-fireside-gathering-location-in-farnborough-herewith-y/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2085b1f0-377a-4421-9eb0-383cce3a52a8.png)
-
 A new Fireside Gathering location in Farnborough. Herewith your opportunity to challenge others face to face in Hearthstone! We will have a Swiss-system tournament provided enough people sign up. We are looking at the option of prizes for the winners, and everyone will get the Fireside card back in game reward!
 
 * Our First gathering, Farnborough Fireside Extravaganza will be held on July 9th at the Farnborough Community Centre. Please email [amidstbinary@gmail.com][0] for more information. See you there!
