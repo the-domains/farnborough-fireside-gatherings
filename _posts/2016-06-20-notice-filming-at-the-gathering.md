@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: NOTICE - FILMING AT THE GATHERING
-datePublished: '2016-06-20T16:57:42.798Z'
-dateModified: '2016-06-20T16:57:34.816Z'
+datePublished: '2016-06-20T16:58:39.563Z'
+dateModified: '2016-06-20T16:57:50.257Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-20-notice-filming-at-the-gathering.md
