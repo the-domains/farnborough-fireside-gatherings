@@ -1,7 +1,7 @@
 name: Farnborough Fireside Gatherings
 favicon: null
-layout_spectrum: 0.1639617388136685
-typography_spectrum: 0.3658308864105493
+layout_spectrum: 0.97888
+typography_spectrum: 0.10686
 title: Hearthstone Fireside Gatherings
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#040309'
+    - '#4f3840'
+    - '#6d6f24'
+    - '#e7c24d'
+    - '#a5290b'
   brandStrength: 0.9504134859889746
   lightness: 0.9737528276164085
   saturation: 0.7868932851124555
