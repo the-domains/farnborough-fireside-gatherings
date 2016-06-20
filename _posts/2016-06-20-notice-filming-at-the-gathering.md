@@ -1,20 +1,20 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: NOTICE - FILMING AT THE GATHERING
-datePublished: '2016-06-20T16:11:18.252Z'
-dateModified: '2016-06-20T16:11:13.209Z'
+datePublished: '2016-06-20T16:30:51.660Z'
+dateModified: '2016-06-20T16:26:55.736Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-20-notice-filming-at-the-gathering.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-20-notice-filming-at-the-gathering.md
 url: notice-filming-at-the-gathering/index.html
-_type: Article
+_type: WebPage
 
 ---
 NOTICE - FILMING AT THE GATHERING
