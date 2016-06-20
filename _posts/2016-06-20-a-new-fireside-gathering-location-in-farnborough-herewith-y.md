@@ -10,8 +10,8 @@ description: >-
   tournament provided enough people sign up. We are looking at the option of
   prizes for the winners, and everyone will get the Fireside card back in game
   reward!
-datePublished: '2016-06-20T15:47:30.938Z'
-dateModified: '2016-06-20T15:47:29.255Z'
+datePublished: '2016-06-20T15:52:44.983Z'
+dateModified: '2016-06-20T15:51:51.038Z'
 title: ''
 author: []
 sourcePath: >-
