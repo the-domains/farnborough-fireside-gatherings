@@ -23,7 +23,7 @@ color:
     - '#0396aa'
     - '#8f8142'
   brandStrength: 0
-  lightness: 1
+  lightness: 0
   saturation: 0
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []
