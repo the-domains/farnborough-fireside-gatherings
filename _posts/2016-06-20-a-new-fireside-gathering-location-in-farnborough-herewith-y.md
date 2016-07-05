@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Thanks for signing up. If you have not yet done so please do here.
-datePublished: '2016-07-05T09:27:22.457Z'
-dateModified: '2016-07-05T09:26:34.003Z'
+datePublished: '2016-07-05T09:36:39.887Z'
+dateModified: '2016-07-05T09:27:25.213Z'
 title: ''
 author:
   - name: ''
@@ -28,8 +28,14 @@ We have decided to play in the Standard format. My sincere apologies if you have
 
 **We now have some Hearthstone goodies for the winner worth £30! **
 
-The official start time is 11am. Please come along earlier to sign in. We will decide on what type of tournament to have when we know how many participants are coming. We may have a best of three, seeded double elimination with fewer numbers. If lots of people sign up then no problem, single game seeded double elimination! You will be asked what your highest rank has ever been in order to be seeded, so please be honest. My highest is only 14 :)
-
+The official start 
+time is 11am. Please come along earlier to sign in. We will decide on what type 
+of tournament to have when we know how many participants are coming. We may have a best of three, seeded double 
+elimination with fewer numbers. If lots of people sign up then no problem, single game seeded double 
+elimination! You will be asked what your highest rank has ever been in order to 
+be seeded, so please be honest. My highest is only 14 
+:)  
+  
 Please email me if 
 you have any questions. amidstbinary@gmail.com
 
