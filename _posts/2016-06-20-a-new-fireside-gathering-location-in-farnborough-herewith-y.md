@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Thanks for signing up. If you have not yet done so please do here.
-datePublished: '2016-07-05T09:59:31.696Z'
-dateModified: '2016-07-05T09:59:31.498Z'
+description: Thanks for signing up. If you have not yet done so please sign up here.
+datePublished: '2016-07-05T10:08:01.415Z'
+dateModified: '2016-07-05T10:07:52.595Z'
 title: ''
 author:
   - name: ''
@@ -20,9 +20,9 @@ url: a-new-fireside-gathering-location-in-farnborough-herewith-y/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e64a027c-5db8-4788-a2d4-c2b2a71ea95f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5830893-fdec-4fb1-a25a-8b4127fe50b8.jpg)
 
-Thanks for signing up. If you have not yet done so please do [here][0].
+Thanks for signing up. If you have not yet done so please sign up [here][0].
 
 We have decided to play in the Standard format. My sincere apologies if you have chosen your team based on Wild format and written out wild decks on the registration form. You can edit your character choice on Battlefy.
 
